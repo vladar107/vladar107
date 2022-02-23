@@ -86,7 +86,7 @@ System for calling service for a business users. Firstly joined as a developer, 
 - refactoring
 - plan technical development of project
 
-Technologies used: C#, TypeScript, .Net 5, ASP.Net Core, Angular 12, MongoDB, Kafka, Rabbit MQ, Docker, k8s, Gitlab CI, Teamcity
+Technologies used: C#, TypeScript, .Net 5, ASP.Net Core, Angular 12, MongoDB, Kafka, Rabbit MQ, gRPC, Docker, k8s, Gitlab CI, Teamcity
 
 
 #### **Calling Sales System** | 01.2018 - 05.2019
