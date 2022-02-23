@@ -8,6 +8,7 @@
 |Email | [vladar107@gmail.com](vladar107@gmail.com)
 |LinedIn | [@vladar107](https://linkedin.com/in/vladar107)
 |Telegram | [@vladar107](https://t.me/vladar107) 
+|GitHub | [@vladar107](https://github.com/vladar107)
 
 Key skills:
 - Design and development of scalable data-intensive software systems
