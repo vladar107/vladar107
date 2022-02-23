@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C#, .Net, System Design**
 
-- 📄 Know about my experiences [link](link)
+- 📄 Know about my experiences [link](./cv.md)
 
 - ⚡ Fun fact **Play ice hockey, interested in music production, learn to sign**
 
