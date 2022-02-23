@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vlad
-## Senior software development engineer from Russia
+## Software development engineer from Russia. Open for relocation opportunities
 
 - 🌱 I’m currently learning <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
 
