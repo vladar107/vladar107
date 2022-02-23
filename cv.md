@@ -16,6 +16,8 @@ Key skills:
 Primary tech stack right now is **C#**
 
 Interested in **Go**, **Haskell**
+
+
 **Kanban** enthusiast
 
 Experienced with .NET, ASP.NET Core, MongoDB, PostgreSQL, MS SQL Server, Kafka, RabbitMQ, JavaScript / TypeScript, Angular, Bash, Linux containers, Docker, K8S, GitLab CI, Teamcity
