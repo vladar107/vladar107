@@ -11,6 +11,7 @@
 |GitHub | [@vladar107](https://github.com/vladar107)
 
 Key skills:
+
 - Design and development of scalable data-intensive software systems
 - Delivery management (processes building)
 
@@ -52,6 +53,7 @@ gantt
 One of the most advanced Russian fintech company. I've been involved in multiple projects in different roles.
 
 Besides project activities i've been involved in:
+
 - hiring process
 - founding mentoring process for .net developers
 - courses as a lector
@@ -64,6 +66,7 @@ The most important projects:
 
 #### **Tinkoff Business. New Partners origination** | 12.2021 - current time
 Origination process for new product. Was started from scratch. 
+
 - architecture
 - organized technological process of development
 - system analyses
@@ -77,6 +80,7 @@ Technologies used: C#, TypeScript, .Net 6, ASP.Net Core, Angular 14, PostgreSQL,
 
 #### **Tinkoff Business. Cloud Call Center** | 05.2019 - 11.2021
 System for calling service for a business users. Firstly joined as a developer, after a year become a teach lead.
+
 - new features development
 - test writing
 - code review
@@ -91,6 +95,7 @@ Technologies used: C#, TypeScript, .Net 5, ASP.Net Core, Angular 12, MongoDB, Ka
 
 #### **Calling Sales System** | 01.2018 - 05.2019
 A system for sale by call. One service of multi-service system for selling specific product. Developed from scratch.
+
 - new features development
 - test writing
 - refactoring
@@ -102,6 +107,7 @@ Technologies used: C#, TypeScript, .Net Core 2.1, ASP.Net Core, Angular 8, Mongo
 
 ### [One inc.](https://www.oneinc.com/) | SDE | St.Petersburg, Russia | 04.2017 – 01.2018
 I've been taking part as a full-stack developer of a product for vehicle insurance (control policy's lifecycle).
+
 - new features development
 - analyses of tasks and requirement 
 - refactoring
@@ -128,6 +134,7 @@ Technologies used: C#, XAML, C, C++, .Net Framework 4.0, WPF, WinForms, WCF, MyS
 
 ### [Energoinvest](http://www.energoin.ru/) | SDE/Ops | Saratov, Russia | 07.2014 - 11.2015
 I've been involved in development of energy supplier's platform. My daily tasks were:
+
 - design and develop the platform
 - bug fixing 
 - infrastructure administration
