@@ -17,7 +17,6 @@ Primary tech stack right now is **C#**
 
 Interested in **Go**, **Haskell**
 
-
 **Kanban** enthusiast
 
 Experienced with .NET, ASP.NET Core, MongoDB, PostgreSQL, MS SQL Server, Kafka, RabbitMQ, JavaScript / TypeScript, Angular, Bash, Linux containers, Docker, K8S, GitLab CI, Teamcity
@@ -62,7 +61,7 @@ Besides project activities i've been involved in:
 The most important projects:
 
 
-#### **Tinkoff Business. New Partners origination** 12.2021 - current time
+#### **Tinkoff Business. New Partners origination** | 12.2021 - current time
 Origination process for new product. Was started from scratch. 
 - architecture
 - organized technological process of development
@@ -75,7 +74,7 @@ Origination process for new product. Was started from scratch.
 Technologies used: C#, TypeScript, .Net 6, ASP.Net Core, Angular 14, PostgreSQL, Kafka, Docker, k8s, Gitlab CI
 
 
-#### **Tinkoff Business. Cloud Call Center** 05.2019 - 11.2021
+#### **Tinkoff Business. Cloud Call Center** | 05.2019 - 11.2021
 System for calling service for a business users. Firstly joined as a developer, after a year become a teach lead.
 - new features development
 - test writing
@@ -89,7 +88,7 @@ System for calling service for a business users. Firstly joined as a developer, 
 Technologies used: C#, TypeScript, .Net 5, ASP.Net Core, Angular 12, MongoDB, Kafka, Rabbit MQ, Docker, k8s, Gitlab CI, Teamcity
 
 
-#### **Calling Sales System** 01.2018 - 05.2019
+#### **Calling Sales System** | 01.2018 - 05.2019
 A system for sale by call. One service of multi-service system for selling specific product. Developed from scratch.
 - new features development
 - test writing
