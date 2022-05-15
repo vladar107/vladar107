@@ -1,7 +1,7 @@
 # Vladislav Ramazaev
 ## Software Development Engineer / Tech Lead / 8 years of experience 
 
-| Date of birth | Current location | Email | LinedIn | Telegram | GitHub |
+| Date of birth | Current location | Email | LinkedIn | Telegram | GitHub |
 | --- | --- | --- | --- | --- | --- |
 |December 13, 1993 | Saint Petersburg, Russia | [vladar107@gmail.com](vladar107@gmail.com) | [@vladar107](https://www.linkedin.com/in/vladar107/?locale=en_US) | [@vladar107](https://t.me/vladar107) | [@vladar107](https://github.com/vladar107)
 
