@@ -10,7 +10,7 @@ Key skills:
 - Design and development of scalable data-intensive software systems
 - Delivery management (processes building), **Kanban** enthusiast
 
-Primary tech stack right now is **C#**.
+The primary tech stack right now is **C#**.
 
 Experienced with .NET, ASP.NET Core, MongoDB, PostgreSQL, MS SQL Server, Kafka, RabbitMQ, JavaScript / TypeScript, Angular, Linux containers, Docker, K8S, GitLab CI, Teamcity.
 
@@ -69,20 +69,17 @@ I've been taking part as a full-stack developer of a product for vehicle insuran
 
 Technologies used: C#, TypeScript, .Net Framework 4.0, .Net Core 1.0, ASP.Net Core, MS SQL Server, Angular 2, Silverlight.
 
-
 ### [Rubezh](https://rubezh.com/) | SDE | Saratov, Russia | 11.2015 - 04.2017
 I've been taking part in 2 projects. Both were desktop applications for surveillance control. The first was a desktop standalone application, the second was a client-server application.
 
 Technologies used: C#, XAML, C, C++, .Net Framework 4.0, WPF, WinForms, WCF, MySQL, FireBird, IP cameras, ffmpeg.
-
 
 ### [Energoinvest](http://www.energoin.ru/) | SDE/Ops | Saratov, Russia | 07.2014 - 11.2015
 I've been involved in the development of an energy supplier's platform. 
 
 Technologies used: C#, .Net Framework 4.5, WinForms, MS SQL Server.
 
-
 ## Education
-[Saratov State University](https://www.sgu.ru/en) | Saratov, Russia | 2011 - 2015
+### [Saratov State University](https://www.sgu.ru/en) | Saratov, Russia | 2011 - 2015
 
 Bachelor's degree, Computer Science.
