@@ -38,8 +38,9 @@ gantt
     SDE (Sales)             :sd5, after sd4, 2019-05
     SDE (Cloud CC)          :sd6, after sd5, 2020-02
     Tech Lead (Cloud CC)    :tl1, after sd6, 2021-11
-    Tech Lead (Origination) :active, tl2, after tl1, 2022-06
-    now         :milestone, now, 1s
+    Tech Lead (Origination) :tl2, after tl1, 2022-05
+    Tech Lead (UpSeller)    :active, tl3, after tl2, 2022-08
+    now                     :milestone, now, 1s
 ```
 
 ### [Tinkoff](https://www.tinkoff.ru ) | SDE/Tech Lead | St.Petersburg, Russia | 01.2018 – current time
@@ -49,7 +50,15 @@ Besides project activities I've been involved in: the hiring process, mentoring 
 
 The most important projects:
 
-#### **Tinkoff Business. New Partners origination** | 12.2021 - current time
+#### **Tinkoff UpSeller** | 05.2022 - current time
+
+The project is for an aggregation marketplace but for sellers. Rich analytics and forecasting abilities are provided by ML. Engineered and launched the new project from scratch. Planned technical development plan and controlled its implementation. Organized technological process of development at team (the team was gathered for the project). 
+
+Technologies used: C#, TypeScript, .Net 6, ASP.Net Core, Angular 14, PostgreSQL, Kafka, Docker, k8s, Gitlab CI.
+
+Approaches used: ADR, RFC, Shift Left Testing, Technology Roadmap, TBD, 12 factors, Cloud Native
+
+#### **Tinkoff Business. New Partners origination** | 12.2021 - 05.2022
 Origination process for a new product. Engineered and launched the new project from scratch. Planned technical development plan and controlled its implementation. Organized technological process of development at team (the team was gathered for the project).
 
 Technologies used: C#, TypeScript, .Net 6, ASP.Net Core, Angular 14, PostgreSQL, Kafka, Docker, k8s, Gitlab CI.
