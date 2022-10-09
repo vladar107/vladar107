@@ -39,7 +39,7 @@ gantt
     SDE (Cloud CC)          :sd6, after sd5, 2020-02
     Tech Lead (Cloud CC)    :tl1, after sd6, 2021-11
     Tech Lead (Origination) :tl2, after tl1, 2022-05
-    Tech Lead (UpSeller)    :active, tl3, after tl2, 2022-12
+    Tech Lead (Seller)    :active, tl3, after tl2, 2022-12
     now                     :milestone, now, 1s
 ```
 
@@ -50,7 +50,7 @@ Besides project activities I've been involved in: the hiring process, mentoring 
 
 The most important projects:
 
-#### **Tinkoff UpSeller** | 05.2022 - current time
+#### **Tinkoff Seller** | 05.2022 - current time
 
 The project is for an aggregation marketplace but for sellers. Rich analytics and forecasting abilities are provided by ML. Engineered and launched the new project from scratch. Planned technical development plan and controlled its implementation. Organized technological process of development at team (the team was gathered for the project). 
 
