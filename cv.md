@@ -3,7 +3,7 @@
 
 | Date of birth | Current location | Email | LinkedIn | Telegram | GitHub |
 | --- | --- | --- | --- | --- | --- |
-|December 13, 1993 | Saint Petersburg, Russia | [vramazaev@vivaldi.net](vramazaev@vivaldi.net) | [@vladar107](https://www.linkedin.com/in/vladar107/?locale=en_US) | [@vladar107](https://t.me/vladar107) | [@vladar107](https://github.com/vladar107)
+|December 13, 1993 | Yerevan, Armenia | [vramazaev@vivaldi.net](vramazaev@vivaldi.net) | [@vladar107](https://www.linkedin.com/in/vladar107/?locale=en_US) | [@vladar107](https://t.me/vladar107) | [@vladar107](https://github.com/vladar107)
 
 Key skills:
 
@@ -39,7 +39,7 @@ gantt
     SDE (Cloud CC)          :sd6, after sd5, 2020-02
     Tech Lead (Cloud CC)    :tl1, after sd6, 2021-11
     Tech Lead (Origination) :tl2, after tl1, 2022-05
-    Tech Lead (UpSeller)    :active, tl3, after tl2, 2022-08
+    Tech Lead (UpSeller)    :active, tl3, after tl2, 2022-12
     now                     :milestone, now, 1s
 ```
 
