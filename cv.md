@@ -39,7 +39,7 @@ gantt
     SDE (Cloud CC)          :sd6, after sd5, 2020-02
     Tech Lead (Cloud CC)    :tl1, after sd6, 2021-11
     Tech Lead (Origination) :tl2, after tl1, 2022-05
-    Tech Lead (Seller)      :tl3, after tl2, 2023-03
+    Tech Lead (Seller)      :tl3, after tl2, 2023-05
     now                     :milestone, 2023-03, 1s
 ```
 
