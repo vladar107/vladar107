@@ -3,7 +3,7 @@
 
 | Date of birth | Current location | Email | LinkedIn | Telegram | GitHub |
 | --- | --- | --- | --- | --- | --- |
-|December 13, 1993 | Yerevan, Armenia | [vramazaev@vivaldi.net](vramazaev@vivaldi.net) | [@vladar107](https://www.linkedin.com/in/vladar107/?locale=en_US) | [@vladar107](https://t.me/vladar107) | [@vladar107](https://github.com/vladar107)
+|December 13, 1993 | Amsterdam, Netherlands | [vramazaev@vivaldi.net](vramazaev@vivaldi.net) | [@vladar107](https://www.linkedin.com/in/vladar107/?locale=en_US) | [@vladar107](https://t.me/vladar107) | [@vladar107](https://github.com/vladar107)
 
 Key skills:
 
@@ -43,14 +43,14 @@ gantt
     now                     :milestone, 2023-03, 1s
 ```
 
-### [Tinkoff](https://www.tinkoff.ru ) | SDE/Tech Lead | St.Petersburg, Russia | 01.2018 – current time
+### [Tinkoff](https://www.tinkoff.ru ) | SDE/Tech Lead | St.Petersburg, Russia | 01.2018 – 05.2023
 One of the most advanced Russian fintech companies ([more information](https://www.tinkoffgroup.com/company-info/summary/)). I've been involved in multiple projects in different roles and at different stages (from scratch to the ending of development).
 
 Besides project activities I've been involved in: the hiring process, mentoring (starting a common process for all .Net SDE), education (as a lector at courses), and being an active member of the internal .net community.
 
 The most important projects:
 
-#### **Tinkoff Seller** | 05.2022 - 03.2023
+#### **Tinkoff Seller** | 05.2022 - 05.2023
 
 The project is for an aggregation marketplace but for sellers. Rich analytics and forecasting abilities are provided by ML. Engineered and launched the new project from scratch. Planned technical development plan and controlled its implementation. Organized technological process of development at team (the team was gathered for the project). 
 
