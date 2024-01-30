@@ -1,5 +1,5 @@
 # Vladislav Ramazaev
-## Software Development Engineer / Tech Lead / 8 years of experience 
+## Software Development Engineer / Tech Lead / 10 years of experience 
 
 | Date of birth | Current location | Email | LinkedIn | Telegram | GitHub |
 | --- | --- | --- | --- | --- | --- |
@@ -10,11 +10,11 @@ Key skills:
 - Design and development of scalable data-intensive software systems
 - Delivery management (processes building), **Kanban** enthusiast
 
-The primary tech stack right now is **C#**.
+The primary tech stack right now is **Kotlin**, **TypeScript**.
 
-Experienced with .NET, ASP.NET Core, MongoDB, PostgreSQL, MS SQL Server, Kafka, RabbitMQ, JavaScript / TypeScript, Angular, Linux containers, Docker, K8S, GitLab CI, Teamcity.
+Experienced with C#, .NET, ASP.NET Core, MongoDB, PostgreSQL, MS SQL Server, MySQL, Kafka, RabbitMQ, JavaScript/TypeScript, Angular, Kotlin, Spring, Linux containers, Docker, K8S, GitLab CI, Teamcity, GitHub Actions, AWS.
 
-Interested in **Go**, **Haskell**.
+Interested in **Go**, **Haskell**, **System Design**.
 
 ## Experience
 ```mermaid
@@ -40,8 +40,16 @@ gantt
     Tech Lead (Cloud CC)    :tl1, after sd6, 2021-11
     Tech Lead (Origination) :tl2, after tl1, 2022-05
     Tech Lead (Seller)      :tl3, after tl2, 2023-05
-    now                     :milestone, 2023-03, 1s
+
+    section Bitvavo
+    SDE                     :sd7, after tl3, 2024-06
+    now                     :milestone, 2024-02, 1s
 ```
+
+### [Bitvavo](https://bitvavo.com/en) | SDE | Amsterdam, Netherlands | 06.2023 - now
+As a member of the trading team, I successfully engineered two high-impact backend services from the ground up, resulting in a significant boost to PNL and becoming one step close to be MICAr complient. This involved not only developing the services but also seamlessly integrating them into the existing architecture to enhance overall trading system efficiency.
+
+_Technologies used_: Kotlin, TypeScript, MySQL, Kafka, Docker, k8s, AWS, GitHub Actions, Terraform.
 
 ### [Tinkoff](https://www.tinkoff.ru ) | SDE/Tech Lead | St.Petersburg, Russia | 01.2018 – 05.2023
 One of the most advanced Russian fintech companies ([more information](https://www.tinkoffgroup.com/company-info/summary/)). I've been involved in multiple projects in different roles and at different stages (from scratch to the ending of development).
@@ -54,41 +62,40 @@ The most important projects:
 
 The project is for an aggregation marketplace but for sellers. Rich analytics and forecasting abilities are provided by ML. Engineered and launched the new project from scratch. Planned technical development plan and controlled its implementation. Organized technological process of development at team (the team was gathered for the project). 
 
-Technologies used: C#, TypeScript, .Net 6, ASP.Net Core, Angular 14, PostgreSQL, Kafka, Docker, k8s, Gitlab CI.
+_Technologies used_: C#, TypeScript, .Net 6, ASP.Net Core, Angular 14, PostgreSQL, Kafka, Docker, k8s, Gitlab CI.
 
-Approaches used: ADR, RFC, Shift Left Testing, Technology Roadmap, TBD, 12 factors, Cloud Native
+_Approaches used_: ADR, RFC, Shift Left Testing, Technology Roadmap, TBD, 12 factors, Cloud Native
 
 #### **Tinkoff Business. New Partners origination** | 12.2021 - 05.2022
 Origination process for a new product. Engineered and launched the new project from scratch. Planned technical development plan and controlled its implementation. Organized technological process of development at team (the team was gathered for the project).
 
-Technologies used: C#, TypeScript, .Net 6, ASP.Net Core, Angular 14, PostgreSQL, Kafka, Docker, k8s, Gitlab CI.
+_Technologies used_: C#, TypeScript, .Net 6, ASP.Net Core, Angular 14, PostgreSQL, Kafka, Docker, k8s, Gitlab CI.
 
 #### **Tinkoff Business. Cloud Call Center** | 05.2019 - 11.2021
 System for calling service for business users. Firstly joined as a developer, and after a year become a technical lead. Increased product scalability, flexibility, and active client integrations by launching a universal public API. Improved product's maintainability by identifying old problems and refactoring. Improved Flow Efficiency and decreased Lead Time. 
 
-Technologies used: C#, TypeScript, .Net 5, ASP.Net Core, Angular 12, MongoDB, Kafka, Rabbit MQ, gRPC, Docker, k8s, Gitlab CI, Teamcity.
+_Technologies used_: C#, TypeScript, .Net 5, ASP.Net Core, Angular 12, MongoDB, Kafka, Rabbit MQ, gRPC, Docker, k8s, Gitlab CI, Teamcity.
 
 #### **Calling Sales System** | 01.2018 - 05.2019
 A system for sale by calling. One service multi-service system for selling a specific product. Developed from scratch. After the initial part of the development was responsible for releasing and initial maintenance.  
 
-Technologies used: C#, TypeScript, .Net Core 2.1, ASP.Net Core, Angular 8, MongoDB, Rabbit MQ, Docker, Teamcity.
+_Technologies used_: C#, TypeScript, .Net Core 2.1, ASP.Net Core, Angular 8, MongoDB, Rabbit MQ, Docker, Teamcity.
 
 ### [One inc.](https://www.oneinc.com/) | SDE | St.Petersburg, Russia | 04.2017 – 01.2018
-I've been taking part as a full-stack developer of a product for vehicle insurance (control policy's lifecycle). Was an active part of the team. 
+I've been taking part as a full-stack developer of a product for vehicle insurance (control policy's lifecycle). 
 
-Technologies used: C#, TypeScript, .Net Framework 4.0, .Net Core 1.0, ASP.Net Core, MS SQL Server, Angular 2, Silverlight.
+_Technologies used_: C#, TypeScript, .Net Framework 4.0, .Net Core 1.0, ASP.Net Core, MS SQL Server, Angular 2, Silverlight.
 
 ### [Rubezh](https://rubezh.com/) | SDE | Saratov, Russia | 11.2015 - 04.2017
 I've been taking part in 2 projects. Both were desktop applications for surveillance control. The first was a desktop standalone application, the second was a client-server application.
 
-Technologies used: C#, XAML, C, C++, .Net Framework 4.0, WPF, WinForms, WCF, MySQL, FireBird, IP cameras, ffmpeg.
+_Technologies used_: C#, XAML, C, C++, .Net Framework 4.0, WPF, WinForms, WCF, MySQL, FireBird, IP cameras, ffmpeg.
 
 ### [Energoinvest](http://www.energoin.ru/) | SDE/Ops | Saratov, Russia | 07.2014 - 11.2015
 I've been involved in the development of an energy supplier's platform. 
 
-Technologies used: C#, .Net Framework 4.5, WinForms, MS SQL Server.
+_Technologies used_: C#, .Net Framework 4.5, WinForms, MS SQL Server.
 
 ## Education
 ### [Saratov State University](https://www.sgu.ru/en) | Saratov, Russia | 2011 - 2015
-
 Bachelor's degree, Computer Science.
