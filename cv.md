@@ -41,12 +41,12 @@ gantt
 ```
 
 #### [Bitvavo](https://bitvavo.com/en) | SDE | Amsterdam, Netherlands | 06.2023 - Present
-As a member of the trading team, successfully engineered two high-impact backend services from the ground up, resulting in a significant boost to PNL and becoming one step close to be MICAr compliant. This involved not only developing the services but also seamlessly integrating them into the existing architecture to enhance overall trading system efficiency.
+As a member of the trading team, successfully engineered two high-impact backend services from the ground up, resulting in a significant boost to PNL and becoming one step closer to be MICAr compliant. This involved not only developing the services but also seamlessly integrating them into the existing architecture to enhance overall trading system efficiency.
 
 <u>_Technologies_</u>: Kotlin, TypeScript, MySQL, Kafka, Docker, k8s, AWS, GitHub Actions, Terraform.
 
 #### [Tinkoff](https://www.tinkoff.ru) | SDE/Tech Lead | St.Petersburg, Russia | 01.2018 – 05.2023
-One of the most advanced Russian fin-tech companies ([more information](https://www.tinkoffgroup.com/company-info/summary/)). Besides project activities. Have been involved in: the hiring process, mentoring (starting a common process for whole .Net SDE stream), education (as a lector at public courses), and being an active member of the internal .Net community.
+One of the most advanced Russian fin-tech companies ([more information](https://www.tinkoffgroup.com/company-info/summary/)). Besides project activities. Have been involved in: the hiring process, mentoring (starting a common process for whole .Net SDE stream), education (as a lecturer at public courses), and being an active member of the internal .Net community.
 
 ##### **Tinkoff Seller** | Tech Lead | 05.2022 - 05.2023
  Marketplaces aggregation platform for merchants. Designed and launched the new project from scratch. Planned technical development roadmap and controlled its implementation. Organized technological process of development at team (the team was gathered for the project). 
@@ -66,7 +66,7 @@ System for calling service for business users. Firstly joined as a developer, an
 <u>_Technologies_</u>: C#, TypeScript, .Net 5, ASP.Net Core, Angular 12, MongoDB, Kafka, Rabbit MQ, gRPC, Docker, k8s, Gitlab CI, Teamcity.
 
 ##### **Calling Sales System** | SDE | 01.2018 - 05.2019
-A system for sale by calling. One service multi-service system for selling a specific product. 
+A system for sales by calling. One service multi-service system for selling a specific product. 
 
 <u>_Technologies_</u>: C#, TypeScript, .Net Core 2.1, ASP.Net Core, Angular 8, MongoDB, Rabbit MQ, Docker, Teamcity.
 
