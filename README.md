@@ -3,9 +3,9 @@
 ## Software development engineer from Amsterdam. Open for new opportuinities.
 
 - 💬 Ask me about **C#**, **.Net**, **System Design**, **Delivery Processes**
-
 - 📄 Know about my experiences [link](./cv.md)
-
+- The author of [Tech Lead Insights](https://t.me/techlead_Insights) Telegram channel
+- The mentor on [getmentor.dev](https://getmentor.dev/mentor/vladislav-ramazaev-3193)
 - ⚡ Fun fact **Play ice hockey, interested in music production, learn to sign**
 
 <h3 align="left">Connect with me:</h3>
