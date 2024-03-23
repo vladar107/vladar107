@@ -2,7 +2,7 @@
 
 | Date of birth | Current location | Email | LinkedIn | Telegram | GitHub |
 | --- | --- | --- | --- | --- | --- |
-|December 13, 1993 | Amsterdam, Netherlands | [vramazaev@vivaldi.net](vramazaev@vivaldi.net) | [@vladar107](https://www.linkedin.com/in/vladar107/?locale=en_US) | [@vladar107](https://t.me/vladar107) | [@vladar107](https://github.com/vladar107)
+|December 13, 1993 | Amsterdam, Netherlands | [vl.ramazaev@gmail.com](vl.ramazaev@gmail.com) | [@vladar107](https://www.linkedin.com/in/vladar107/?locale=en_US) | [@vladar107](https://t.me/vladar107) | [@vladar107](https://github.com/vladar107)
 
 The primary tech stack right now is **Kotlin**, **TypeScript**.
 
