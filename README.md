@@ -8,6 +8,11 @@
 - The mentor on [getmentor.dev](https://getmentor.dev/mentor/vladislav-ramazaev-3193)
 - ⚡ Fun fact **Play ice hockey, interested in music production, learn to sign**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vladar107&label=Profile%20views&color=0e75b6&style=flat" alt="vladar107-views" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladar107" alt="vladar107-trophy" /></a> </p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vladar107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladar107" height="30" width="40" /></a>
