@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/vladar107"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladar107" height="30" width="40"/></a>
-    <a href="https://t.me/vladar107"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/521c96fd04b0ea93034db8715eda5a4de27a58bb/icons/telegram.svg" alt="vladar107" height="30" width="40"/></a>
+    <a href="https://t.me/vladar107"><img align="center" src="https://raw.githubusercontent.com/badges/shields/master/logo/telegram.svg" alt="vladar107" height="30" width="40"/></a>
     <a href="https://stackoverflow.com/users/4034612" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4034612" height="30" width="40"/></a>
 </p>
 
@@ -45,7 +45,7 @@
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
     <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
     <a href="https://gitlab.com/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
-    <a href="https://www.jetbrains.com/teamcity/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/521c96fd04b0ea93034db8715eda5a4de27a58bb/icons/teamcity.svg" alt="teamcity" width="40" height="40"/></a>
+    <a href="https://www.jetbrains.com/teamcity/" target="_blank"> <img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/teamcity/teamcity.svg" alt="teamcity" width="40" height="40"/></a>
     <a href="https://www.github.com" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 <p align="left"></p>
 
