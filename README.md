@@ -3,7 +3,7 @@
 ## Software development engineer/Technical Lead from Amsterdam. Open for new opportuinities.
 
 - 💬 Ask me about **C#**, **.Net**, **System Design**, **Delivery Processes**
-- 📄 Know about my experiences [link](./cv.md)
+- 📄 Know about my experiences [CV](./cv.md)
 - The author of [Tech Lead Insights](https://t.me/techlead_Insights) Telegram channel
 - The mentor on [getmentor.dev](https://getmentor.dev/mentor/vladislav-ramazaev-3193)
 - ⚡ Fun fact: **Played ice hockey, interested in music production, learnt to sign**
