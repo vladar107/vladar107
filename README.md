@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vlad
-## Stop War in Ukraine
-## Software development engineer/Technical Lead from Amsterdam. Open for new opportuinities.
+## Software development engineer/Technical Lead from Amsterdam
+## Open for new opportuinities
 
 - 💬 Ask me about **C#**, **.Net**, **System Design**, **Delivery Processes**
 - 📄 Know about my experiences [CV](./cv.md)
