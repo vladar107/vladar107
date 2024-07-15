@@ -18,7 +18,7 @@
 ### Connect with me:
 <p align="left">
     <a href="https://linkedin.com/in/vladar107"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladar107" height="30" width="30"/></a>
-    <a href="https://t.me/vladar107"><img align="center" src="https://raw.githubusercontent.com/badges/shields/master/logo/telegram.svg" alt="vladar107" height="30" width="30"/></a>
+    <a href="https://t.me/vladar107"><img align="center" src="https://raw.githubusercontent.com/matomo-org/matomo-icons/master/src/socials/web.telegram.org.svg" alt="vladar107" height="30" width="30"/></a>
     <a href="https://stackoverflow.com/users/4034612" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4034612" height="30" width="30"/></a>
 </p>
 
