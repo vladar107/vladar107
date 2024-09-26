@@ -1,8 +1,8 @@
-# Vladislav Ramazaev. Technical Lead (Staff Engineer) / Software Development Engineer / 10 years of experience
+# Vladislav Ramazaev | Technical Lead | Staff Software Development Engineer | 10 years of experience
 
-| Date of birth | Current location | Email | LinkedIn | Telegram | GitHub |
-| --- | --- | --- | --- | --- | --- |
-|December 13, 1993 | Amsterdam, Netherlands | [vl.ramazaev@gmail.com](vl.ramazaev@gmail.com) | [@vladar107](https://www.linkedin.com/in/vladar107/?locale=en_US) | [@vladar107](https://t.me/vladar107) | [@vladar107](https://github.com/vladar107)
+| Current location | Email | LinkedIn | Telegram | GitHub |
+| --- | --- | --- | --- | --- |
+| Amsterdam, Netherlands | [vl.ramazaev@gmail.com](vl.ramazaev@gmail.com) | [@vladar107](https://www.linkedin.com/in/vladar107/?locale=en_US) | [@vladar107](https://t.me/vladar107) | [@vladar107](https://github.com/vladar107)
 
 The primary tech stack right now is **Kotlin**, **TypeScript**.
 
@@ -11,6 +11,11 @@ The primary tech stack right now is **Kotlin**, **TypeScript**.
 Experienced with C#, .NET, ASP.NET Core, MongoDB, PostgreSQL, MS SQL Server, MySQL, Kafka, RabbitMQ, JavaScript/TypeScript, Angular, Kotlin, Spring, Linux containers, Docker, K8S, GitLab CI, Teamcity, GitHub Actions, AWS.
 
 Interested in **Go**, **Haskell**, **System Design**, **Delivery Processes**.
+
+Results-driven Software Development Engineer with more than 10 years of experience in backend development,
+system architecture, and technical leadership. Specialized in C#, .Net, Kotlin, and TypeScript with a passion for
+system design and process optimization. Proven track record of mentoring, improving profitability, and delivering
+high-performance services.
 
 ## Experience
 ```mermaid
@@ -39,11 +44,14 @@ gantt
 
     section Bitvavo
     SDE                     :sd7, after tl3, 2024-07
-    now                     :milestone, 2024-06, 1s
+    now                     :milestone, 2024-11, 1s
 ```
 
 ### [Bitvavo](https://bitvavo.com/en) | Software Development Engineer | Amsterdam, Netherlands | 06.2023 - Present
-As a member of the trading team, engineered two high-impact backend services from the ground up, resulting in a significant boost to PNL and becoming one step closer to being MICAr compliant. This involved not only developing the services but also integrating them into the existing architecture to enhance overall trading system efficiency.
+As a member of the trading team implemented trading solutions and strategies aligned to current business goals
+- Engineered two high-impact backend services from the ground up.
+- Got a significant boost to profitability (PNL).
+- Becoming one step closer to being MICAr compliant.
 
 <u>_Technologies_</u>: Kotlin, TypeScript, MySQL, Kafka, Docker, k8s, AWS, GitHub Actions, Terraform.
 
