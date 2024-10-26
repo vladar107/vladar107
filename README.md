@@ -1,14 +1,14 @@
 # Hi 👋, I'm Vlad
-## Software development engineer/Technical Lead from Amsterdam
-## Open to new opportunities in Solution Architect and Staff Engineer roles
+## Solutions Architecture enthusiast and Software development engineer from Amsterdam
+## Open to new opportunities in Solutions Architect and Staff Engineer roles
 
 - 💬 Ask me about **C#**, **.Net**, **System Design**, **Delivery Processes**
 - 📄 Explore my [CV](./cv.md) on GitHub
 - ✍️ Author of the [Tech Lead Insights](https://t.me/techlead_Insights) Telegram channel
 - 🎓 Mentor on [GetMentor](https://getmentor.dev/mentor/vladislav-ramazaev-3193)
-- ⚡ Fun fact: **Played ice hockey, interested in music production, and even learned to sing!**
+- ⚡ Fun fact: **Played ice hockey, interested in music production, and even learn to sing!**
 
-With over 10 years of experience, I specialize in backend (C#/.Net, Kotlin) and frontend (TypeScript), focusing on software architecture and system design. As a former Technical Lead, I led teams, introduced critical processes, and launched new products from scratch. Passionate about continuous improvement and innovation, I’m always open to feedback and new challenges.
+Experienced Solutions Architect and Software Development Engineer with over 10 years in backend development and application architecture. Specializes in C#, .Net, Kotlin, and TypeScript, focusing on designing scalable, high-performance systems. Skilled in providing technical governance to drive resilient, optimized solutions that align with business goals. Passionate about turning requirements into eﬃcient, scalable architectures that support long-term growth and innovation.
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=vladar107&label=Profile%20views&color=0e75b6&style=flat" alt="vladar107-views" />
