@@ -6,11 +6,20 @@
 
 [Mentor](https://getmentor.dev/mentor/vladislav-ramazaev-3193) and [Blog](https://t.me/techlead_Insights) author.
 
-Experienced with C#, .NET, ASP.NET Core, MongoDB, PostgreSQL, MS SQL Server, MySQL, Kafka, RabbitMQ, JavaScript/TypeScript, Angular, Kotlin, Spring, Linux containers, Docker, K8S, GitLab CI, Teamcity, GitHub Actions, AWS.
-
 Interested in **Leadership**, **Solutions Architecture**, **Delivery Processes**.
 
 Experienced Solutions Architect and Software Development Engineer with over 10 years in backend development and application architecture. I focus on delivering scalable, high-performance systems aligned with business objectives, providing technical governance to ensure resilience and optimization. Passionate about turning requirements into effective architectures that drive growth, with business value always at the core of my work.
+
+## Key Skills
+
+| General | Languages | Data | Infratructure |
+| --- | --- | --- | --- |
+| Solution Architecture | C# | SQL databases | CI/CD |
+| Application Architecture | Kotlin | MongoDB  | AWS |
+| Technical Governance | TypeScript | ClickHouse | Azure |
+| Cloud Architecture | JavaScript | Kafka | Docker |
+| Backend Development |  | RabbitMQ | Kubernetes |
+| Communications |  |  |  GitOps |
 
 ## Experience
 ```mermaid
