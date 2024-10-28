@@ -43,7 +43,7 @@ gantt
 ```
 
 ### [Bitvavo](https://bitvavo.com/en) | Software Development Engineer | Amsterdam, Netherlands | 06.2023 - Present
-As a member of the trading team implemented trading solutions and strategies aligned to current business goals
+Part of a trading team at a crypto exchange, providing market making, hedging, and additional trading services.
 - Engineered trading solutions and strategies, contributing to a PNL increase.
 - Designed and developed two scalable backend services, boosting performance.
 - Architected trading systems advancing MICAr compliance and regulatory alignment.
