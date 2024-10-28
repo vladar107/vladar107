@@ -1,4 +1,4 @@
-# Vladislav Ramazaev | Technical Lead | Staff Software Development Engineer | 10 years of experience
+# Vladislav Ramazaev | Solution Architect | Staff Software Development Engineer | 10 years of experience
 
 | Current location | Email | LinkedIn | Telegram | GitHub |
 | --- | --- | --- | --- | --- |
@@ -12,10 +12,7 @@ Experienced with C#, .NET, ASP.NET Core, MongoDB, PostgreSQL, MS SQL Server, MyS
 
 Interested in **Go**, **Haskell**, **System Design**, **Delivery Processes**.
 
-Results-driven Software Development Engineer with more than 10 years of experience in backend development,
-system architecture, and technical leadership. Specialized in C#, .Net, Kotlin, and TypeScript with a passion for
-system design and process optimization. Proven track record of mentoring, improving profitability, and delivering
-high-performance services.
+Experienced Solutions Architect and Software Development Engineer with over 10 years in backend development and application architecture. I focus on delivering scalable, high-performance systems aligned with business objectives, providing technical governance to ensure resilience and optimization. Passionate about turning requirements into effective architectures that drive growth, with business value always at the core of my work.
 
 ## Experience
 ```mermaid
@@ -26,66 +23,70 @@ gantt
     todayMarker stroke-width:5px, opacity:0.75
     
     section Energoinvest
-    SDE                     :sd1, 2014-07, 2015-11
+    SDE                                 :sd1, 2014-07, 2015-11
     
     section Rubezh
-    SDE (Standalone App)    :sd2, after sd1, 2016-11
-    SDE (Client-Server App) :sd3, after sd2, 2017-04
+    SDE (Standalone App)                :sd2, after sd1, 2016-11
+    SDE (Client-Server App)             :sd3, after sd2, 2017-04
     
     section One Inc.
-    SDE                     :sd4, after sd3, 2018-01
+    SDE                                 :sd4, after sd3, 2018-01
     
     section Tinkoff
-    SDE (Sales)             :sd5, after sd4, 2019-05
-    SDE (Cloud CC)          :sd6, after sd5, 2020-02
-    Tech Lead (Cloud CC)    :tl1, after sd6, 2021-11
-    Tech Lead (Origination) :tl2, after tl1, 2022-05
-    Tech Lead (Seller)      :tl3, after tl2, 2023-05
+    SDE (Sales)                         :sd5, after sd4, 2019-05
+    SDE (Cloud CC)                      :sd6, after sd5, 2020-02
+    Application Architect (Cloud CC)    :tl1, after sd6, 2021-11
+    Application Architec (Origination)  :tl2, after tl1, 2022-05
+    Solution Architec (Seller)          :tl3, after tl2, 2023-05
 
     section Bitvavo
-    SDE                     :sd7, after tl3, 2024-07
-    now                     :milestone, 2024-11, 1s
+    SDE                                 :sd7, after tl3, 2024-07
+    now                                 :milestone, 2024-11, 1s
 ```
 
 ### [Bitvavo](https://bitvavo.com/en) | Software Development Engineer | Amsterdam, Netherlands | 06.2023 - Present
 As a member of the trading team implemented trading solutions and strategies aligned to current business goals
-- Engineered two high-impact backend services from the ground up.
-- Got a significant boost to profitability (PNL).
-- Becoming one step closer to being MICAr compliant.
+- Engineered trading solutions and strategies, contributing to a PNL increase.
+- Designed and developed two scalable backend services, boosting performance.
+- Architected trading systems advancing MICAr compliance and regulatory alignment.
 
 <u>_Technologies_</u>: Kotlin, TypeScript, MySQL, Kafka, Docker, k8s, AWS, GitHub Actions, Terraform.
 
-### [Tinkoff](https://www.tinkoff.ru) | Technical Lead (Staff Engineer) | St.Petersburg, Russia | 01.2018 – 05.2023
-One of the most advanced Russian fin-tech companies ([more information](https://www.tinkoff-group.com/company-info/summary/)). Besides project activities, was a part of: 
+### [Tinkoff](https://www.tinkoff.ru) | Solution Architect (Staff Engineer) | Yerevan, Armenia | 01.2018 – 05.2023
+One of the most advanced Russian fin-tech companies ([more information](https://www.tinkoff-group.com/company-info/summary/)). Tinkoff is the biggest Digital Bank in Russia (like Revolut).
+
+Besides project activities, was a part of: 
 - The hiring process
 - Mentoring (administered a general  process for the whole .Net SDE stream)
 - Education (as a lecturer at public courses)
 - The internal .Net community (active member)
 
-#### **[Tinkoff Seller](https://www.tinkoff.ru/business/seller/)** | Technical Lead (Staff Engineer) | 05.2022 - 05.2023
-Marketplaces aggregation platform for merchants. 
-- Designed, developed and deployed a brand new project
-- Prepared technical development roadmap and administered its implementation 
-- Organized technological process of development at 3 teams (the teams were gathered for the project)
+#### **[Tinkoff Seller](https://www.tinkoff.ru/business/seller/)** | Solution Architect (Staff Engineer) | 05.2022 - 05.2023
+Tinkoff Seller is a marketplace aggregation platform for merchants.
+- Designed, developed and deployed a brand new project.
+- Prepared and led the implementation of a technical roadmap.
+- Organized the development process across 3 newly-formed teams.
+- Mentored 3 team members, leading to their promotions.
 
 <u>_Technologies_</u>: C#, TypeScript, .Net 6, ASP.Net Core, Angular 14, PostgreSQL, Kafka, Docker, k8s, Gitlab CI.
 
 <u>_Approaches_</u>: ADR, RFC, Shift Left Testing, Technology Roadmap, TBD, 12 factors, Cloud Native.
 
-#### **Tinkoff Business. New Partners origination** | Technical Lead (Staff Engineer) | 12.2021 - 05.2022
-Origination process for a new product. 
-- Engineered and launched a new project from scratch. 
-- Achieved a decrease of the application process time by 500%. 
-- Built a technological development process for a new team.
+#### **Tinkoff Business. New Partners origination** | Application Architect (Staff Engineer) | 12.2021 - 05.2022
+Developed a platform that allows business users to access BNPL services.
+- Engineered and launched a scratch project, reducing application processing time from 3 weeks to 2 days.
+- Established the development process for a new team.
+- Mentored colleagues across teams, resulting in 1 promotion.
 
 <u>_Technologies_</u>: C#, TypeScript, .Net 6, ASP.Net Core, Angular 14, PostgreSQL, Kafka, Docker, k8s, Gitlab CI.
 <u>_Approaches_</u>: ADR, Shift Left Testing, TBD, 12 factors, Cloud Native.
 
-#### **Tinkoff Business. Cloud Call Center** | Software Development Engineer/Technical Lead | 05.2019 - 11.2021
+#### **Tinkoff Business. Cloud Call Center** | Software Development Engineer/Application Architect | 05.2019 - 11.2021
 System for calling service for business users. Firstly joined as a developer, and after a year became a technical lead. 
-- Improved product scalability, flexibility, and uptime (99.99%)
-- New clients integration time reduced by 3000%  by launching a universal public API
-- Increased Flow Efficiency and decreased Lead Time
+- Improved product scalability, flexibility, and uptime to 99.99%.
+- Reduced client integration time from 1 month to 3 days by launching a universal public API.
+- Increased flow efficiency by 30% and cut lead time by 2 weeks.
+- Led a .Net platform course for interns and mentored colleagues, resulting in 3 promotions.
 
 <u>_Technologies_</u>: C#, TypeScript, .Net 5, ASP.Net Core, Angular 12, MongoDB, Kafka, Rabbit MQ, gRPC, Docker, k8s, Gitlab CI, Teamcity.
 
@@ -112,3 +113,5 @@ Was a developer of an energy supplier's platform.
 ## Education
 ### [Saratov State University](https://www.sgu.ru/en) | Saratov, Russia | 09.2011 - 06.2015
 Bachelor's degree, Computer Science.
+
+<u>_GPA_</u>: 4.8/5.0
