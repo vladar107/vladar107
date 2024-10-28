@@ -4,13 +4,11 @@
 | --- | --- | --- | --- | --- |
 | Amsterdam, Netherlands | [vl.ramazaev@gmail.com](vl.ramazaev@gmail.com) | [@vladar107](https://www.linkedin.com/in/vladar107/?locale=en_US) | [@vladar107](https://t.me/vladar107) | [@vladar107](https://github.com/vladar107)
 
-The primary tech stack right now is **Kotlin**, **TypeScript**.
-
 [Mentor](https://getmentor.dev/mentor/vladislav-ramazaev-3193) and [Blog](https://t.me/techlead_Insights) author.
 
 Experienced with C#, .NET, ASP.NET Core, MongoDB, PostgreSQL, MS SQL Server, MySQL, Kafka, RabbitMQ, JavaScript/TypeScript, Angular, Kotlin, Spring, Linux containers, Docker, K8S, GitLab CI, Teamcity, GitHub Actions, AWS.
 
-Interested in **Go**, **Haskell**, **System Design**, **Delivery Processes**.
+Interested in **Leadership**, **Solutions Architecture**, **Delivery Processes**.
 
 Experienced Solutions Architect and Software Development Engineer with over 10 years in backend development and application architecture. I focus on delivering scalable, high-performance systems aligned with business objectives, providing technical governance to ensure resilience and optimization. Passionate about turning requirements into effective architectures that drive growth, with business value always at the core of my work.
 
