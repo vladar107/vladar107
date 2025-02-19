@@ -56,3 +56,4 @@ Experienced Solutions Architect and Software Development Engineer with over 10 y
 ### Clouds:
 ![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-F48120.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
