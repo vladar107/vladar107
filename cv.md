@@ -17,9 +17,10 @@ Experienced Solutions Architect and Software Development Engineer with over 10 y
 | Solution Architecture | C# | SQL databases | CI/CD |
 | Application Architecture | Kotlin | MongoDB  | AWS |
 | Technical Governance | TypeScript | ClickHouse | Azure |
-| Cloud Architecture | JavaScript | Kafka | Docker |
-| Backend Development |  | RabbitMQ | Kubernetes |
-| Communications |  |  |  GitOps |
+| Cloud Architecture | JavaScript | Kafka | Cloudflare |
+| Backend Development |  | RabbitMQ | Docker |
+| Communications |  |  |  Kubernetes |
+|  |  |  |  GitOps |
 
 ## Experience
 ```mermaid
