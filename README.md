@@ -15,6 +15,7 @@ Experienced Solutions Architect and Software Development Engineer with over 10 y
     <img src="https://komarev.com/ghpvc/?username=vladar107&label=Profile%20views&color=0e75b6&style=flat" alt="vladar107-views" />
     <br/>
     <img src="https://github-readme-stats.zohan.tech/api?username=vladar107&hide=contribs&show_icons=true&locale=en&theme=merko" alt="vladar107-stats" />
+<!--     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladar107&theme=merko&layout=compact&langs_count=8" alt="vladar107-languages" /> -->
 </p>
 
 
