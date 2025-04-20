@@ -27,10 +27,11 @@ Experienced Solutions Architect and Software Development Engineer with over 10 y
 </p>
 
 ### Languages:
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=cshrp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
 ### Frameworks:
 ![.Net](https://img.shields.io/badge/.Net-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
@@ -57,5 +58,5 @@ Experienced Solutions Architect and Software Development Engineer with over 10 y
 
 ### Clouds:
 ![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=msazure&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-F48120.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
