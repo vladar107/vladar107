@@ -1,8 +1,8 @@
-# Vladislav Ramazaev | Solution Architect | Staff Software Development Engineer | 10 years of experience
+# Vladislav Ramazaev | Solutions Engineer | Staff Software Development Engineer | 10 years of experience
 
 | Current location | Email | LinkedIn | Telegram | GitHub |
 | --- | --- | --- | --- | --- |
-| Amsterdam, Netherlands | [vl.ramazaev@gmail.com](vl.ramazaev@gmail.com) | [@vladar107](https://www.linkedin.com/in/vladar107/?locale=en_US) | [@vladar107](https://t.me/vladar107) | [@vladar107](https://github.com/vladar107)
+| Randstad, The Netherlands | [vl.ramazaev@gmail.com](vl.ramazaev@gmail.com) | [@vladar107](https://www.linkedin.com/in/vladar107/?locale=en_US) | [@vladar107](https://t.me/vladar107) | [@vladar107](https://github.com/vladar107)
 
 [Mentor](https://getmentor.dev/mentor/vladislav-ramazaev-3193) and [Blog](https://t.me/techlead_Insights) author.
 
@@ -48,8 +48,8 @@ gantt
     Solution Architec (Seller)          :tl3, after tl2, 2023-05
 
     section Bitvavo
-    SDE                                 :sd7, after tl3, 2024-07
-    now                                 :milestone, 2024-11, 1s
+    SDE                                 :sd7, after tl3, 2025-04
+    now                                 :milestone, 2025-05, 1s
 ```
 
 ### [Bitvavo](https://bitvavo.com/en) | Software Development Engineer | Amsterdam, Netherlands | 06.2023 - Present
@@ -122,4 +122,4 @@ Was a developer of an energy supplier's platform.
 ### [Saratov State University](https://www.sgu.ru/en) | Saratov, Russia | 09.2011 - 06.2015
 Bachelor's degree, Computer Science.
 
-<u>_GPA_</u>: 4.8/5.0
+<u>_GPA_</u>: 3.8/4.0
