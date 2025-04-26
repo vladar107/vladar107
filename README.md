@@ -1,6 +1,5 @@
 # Hi 👋, I'm Vlad
-## Solutions Architecture enthusiast and Software development engineer from Amsterdam
-## Open to new opportunities in Solutions Architect and Staff Engineer roles
+## Solutions Engineer and Software development engineer from Amsterdam
 
 - 💬 Ask me about **C#**, **.Net**, **System Design**, **Delivery Processes**
 - 📄 Explore my [CV](./cv.md) on GitHub
@@ -11,11 +10,19 @@
 
 Experienced Solutions Architect and Software Development Engineer with over 10 years in backend development and application architecture. Specializes in C#, .Net, Kotlin, and TypeScript, focusing on designing scalable, high-performance systems. Skilled in providing technical governance to drive resilient, optimized solutions that align with business goals. Passionate about turning requirements into eﬃcient, scalable architectures that support long-term growth and innovation.
 
-<p align="left"> 
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=vladar107&label=Profile%20views&color=0e75b6&style=flat" alt="vladar107-views" />
     <br/>
-    <img src="https://github-readme-stats.zohan.tech/api?username=vladar107&hide=contribs&show_icons=true&locale=en&theme=merko" alt="vladar107-stats" />
-<!--     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladar107&theme=merko&layout=compact&langs_count=8" alt="vladar107-languages" /> -->
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zohan.tech/api?username=vladar107&hide=contribs&show_icons=true&locale=en&theme=merko">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.zohan.tech/api?username=vladar107&hide=contribs&show_icons=true&locale=en&theme=catppuccin_latte">
+        <img alt="vladar107-stats" src="https://github-readme-stats.zohan.tech/api?username=vladar107&hide=contribs&show_icons=true&locale=en&theme=catppuccin_latte">
+    </picture>
+        <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladar107&theme=merko&layout=compact&langs_count=8">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladar107&theme=catppuccin_latte&layout=compact&langs_count=8">
+        <img alt="vladar107-languages" src="vladar107-languages">
+    </picture>
 </p>
 
 
