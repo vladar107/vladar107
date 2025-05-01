@@ -16,9 +16,9 @@ Experienced Solutions Architect and Software Development Engineer with over 10 y
 | --- | --- | --- | --- |
 | Solution Architecture | C# | SQL databases | CI/CD |
 | Application Architecture | Kotlin | MongoDB  | AWS |
-| Technical Governance | TypeScript | ClickHouse | Azure |
-| Cloud Architecture | JavaScript | Kafka | Cloudflare |
-| Backend Development |  | RabbitMQ | Docker |
+| Technical Governance | Python | ClickHouse | Azure |
+| Cloud Architecture | TypeScript | Kafka | Cloudflare |
+| Backend Development | JavaScript | RabbitMQ | Docker |
 | Communications |  |  |  Kubernetes |
 |  |  |  |  GitOps |
 
@@ -49,10 +49,15 @@ gantt
 
     section Bitvavo
     SDE                                 :sd7, after tl3, 2025-04
+
+    section TBA
+    Solutions Engineer                  :se1, after sd7, 2025-06
     now                                 :milestone, 2025-05, 1s
 ```
 
-### [Bitvavo](https://bitvavo.com/en) | Software Development Engineer | Amsterdam, Netherlands | 06.2023 - Present
+### TBA | Solutions Engineer | Amsterdam, Netherlands | 05.2025 - Present
+
+### [Bitvavo](https://bitvavo.com/en) | Software Development Engineer | Amsterdam, Netherlands | 06.2023 - 04.2025
 Part of a trading team at a crypto exchange, providing market making, hedging, and additional trading services.
 - Engineered trading solutions and strategies, contributing to a PNL increase.
 - Designed and developed two scalable backend services, boosting performance.
