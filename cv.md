@@ -52,7 +52,7 @@ gantt
 
     section Toloka AI
     Solutions Engineer                  :se1, after sd7, 2025-06
-    now                                 :milestone, 2025-05, 1s
+    now                                 :milestone, 2025-07, 1s
 ```
 
 ### [Toloka AI](https://toloka.ai/) | Solutions Engineer | Amsterdam, Netherlands | 05.2025 - Present
