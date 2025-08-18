@@ -5,7 +5,7 @@
 - 📄 Explore my [CV](./cv.md) on GitHub
 - ✍️ Author of the [Tech Lead Insights](https://t.me/techlead_Insights) Telegram channel
 - 🎓 Mentor on [GetMentor](https://getmentor.dev/mentor/vladislav-ramazaev-3193)
-- ⚡ Fun fact: **Played ice hockey, interested in music production, and even learn to sing!**
+- ⚡ Fun fact: **ice hockey player, extreme singer, and MTB rider**
 - ☎️ To contact me and know more about my projects follow the [link](https://linktr.ee/vladar107)
 
 Experienced Solutions Architect and Software Development Engineer with over 10 years in backend development and application architecture. Specializes in C#, .Net, Kotlin, and TypeScript, focusing on designing scalable, high-performance systems. Skilled in providing technical governance to drive resilient, optimized solutions that align with business goals. Passionate about turning requirements into eﬃcient, scalable architectures that support long-term growth and innovation.
