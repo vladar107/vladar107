@@ -1,4 +1,4 @@
-# Vladislav Ramazaev | Solutions Engineer | Staff Software Development Engineer | 10 years of experience
+# Vladislav Ramazaev | Solutions Engineer | Staff Software Development Engineer | 10+ years of experience
 
 | Current location | Email | LinkedIn | Telegram | GitHub |
 | --- | --- | --- | --- | --- |
@@ -14,13 +14,13 @@ Experienced Solutions Architect and Software Development Engineer with over 10 y
 
 | General | Languages | Data | Infratructure |
 | --- | --- | --- | --- |
-| Solution Architecture | C# | SQL databases | CI/CD |
+| Solutions Architecture | C# | SQL databases | CI/CD |
 | Application Architecture | Kotlin | MongoDB  | AWS |
 | Technical Governance | Python | ClickHouse | Azure |
 | Cloud Architecture | TypeScript | Kafka | Cloudflare |
 | Backend Development | JavaScript | RabbitMQ | Docker |
 | Communications |  |  |  Kubernetes |
-|  |  |  |  GitOps |
+| Discovery |  |  |  GitOps |
 
 ## Experience
 ```mermaid
@@ -52,17 +52,17 @@ gantt
 
     section Toloka AI
     Solutions Engineer                  :se1, after sd7, 2025-06
-    now                                 :milestone, 2025-07, 1s
+    now                                 :milestone, 2025-10, 1s
 ```
 
 ### [Toloka AI](https://toloka.ai/) | Solutions Engineer | Amsterdam, Netherlands | 05.2025 - Present
 A data solutions company that provides high-quality data for training and evaluating AI models through a scalable, human-in-the-loop platform.
-- Work with clients to understand their data needs and challenges
-- Design and build data pipelines to help train and evaluate AI models
-- Deliver high-quality datasets tailored to each project
-- Keep the pipelines running smoothly and make improvements when needed
+- Collaborated with clients to define data needs, aligning solutions with business objectives
+- Designed and implemented scalable data pipelines to accelerate AI model training and evaluation
+- Delivered high-quality datasets tailored to each project
+- Kept the pipelines running smoothly and made improvements when needed
 
-<u>_Technologies_</u>: Python, Temporal, Databricks.
+<u>_Technologies_</u>: Python, Temporal, GitHub Actions, Databricks.
 
 ### [Bitvavo](https://bitvavo.com/en) | Software Development Engineer | Amsterdam, Netherlands | 06.2023 - 04.2025
 Part of a trading team at a crypto exchange, providing market making, hedging, and additional trading services.
