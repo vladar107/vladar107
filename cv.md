@@ -29,30 +29,29 @@ gantt
     dateFormat  YYYY-MM
     axisFormat  %Y
     todayMarker stroke-width:5px, opacity:0.75
-    
-    section Energoinvest
-    SDE                                 :sd1, 2014-07, 2015-11
-    
-    section Rubezh
-    SDE (Standalone App)                :sd2, after sd1, 2016-11
-    SDE (Client-Server App)             :sd3, after sd2, 2017-04
-    
-    section One Inc.
-    SDE                                 :sd4, after sd3, 2018-01
-    
-    section Tinkoff
-    SDE (Sales)                         :sd5, after sd4, 2019-05
-    SDE (Cloud CC)                      :sd6, after sd5, 2020-02
-    Application Architect (Cloud CC)    :tl1, after sd6, 2021-11
-    Application Architec (Origination)  :tl2, after tl1, 2022-05
-    Solution Architec (Seller)          :tl3, after tl2, 2023-05
+
+    section Toloka AI
+    Solutions Engineer                  :se1, after sd7, 2025-12
 
     section Bitvavo
     SDE                                 :sd7, after tl3, 2025-04
 
-    section Toloka AI
-    Solutions Engineer                  :se1, after sd7, 2025-06
-    now                                 :milestone, 2025-10, 1s
+    section Tinkoff
+    Solution Architec (Seller)          :tl3, after tl2, 2023-05
+    Application Architec (Origination)  :tl2, after tl1, 2022-05
+    Application Architect (Cloud CC)    :tl1, after sd6, 2021-11
+    SDE (Cloud CC)                      :sd6, after sd5, 2020-02
+    SDE (Sales)                         :sd5, after sd4, 2019-05
+
+    section One Inc.
+    SDE                                 :sd4, after sd3, 2018-01
+
+    section Rubezh
+    SDE (Client-Server App)             :sd3, after sd2, 2017-04
+    SDE (Standalone App)                :sd2, after sd1, 2016-11
+
+    section Energoinvest
+    SDE                                 :sd1, 2014-07, 2015-11
 ```
 
 ### [Toloka AI](https://toloka.ai/) | Solutions Engineer | Amsterdam, Netherlands | 05.2025 - Present
