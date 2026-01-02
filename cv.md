@@ -31,7 +31,7 @@ gantt
     todayMarker stroke-width:5px, opacity:0.75
 
     section Toloka AI
-    Solutions Engineer                  :se1, after sd7, 2025-12
+    Solutions Engineer                  :se1, after sd7, 2026-02
 
     section Bitvavo
     SDE                                 :sd7, after tl3, 2025-04
