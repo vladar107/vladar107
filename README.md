@@ -1,5 +1,5 @@
 # Hi 👋, I'm Vlad
-## Solutions Engineer and Software development engineer from Amsterdam
+## Solutions Engineer and Software Development Dngineer from Amsterdam
 
 - 💬 Ask me about **C#**, **.Net**, **System Design**, **Delivery Processes**
 - 📄 Explore my [CV](./cv.md) on GitHub
