@@ -1,11 +1,12 @@
 # Hi 👋, I'm Vlad
-## Solutions Engineer and Software Development Dngineer from Amsterdam
+## Software & Solutions Engineer/Architect from the Netherlands
 
-- 💬 Ask me about **C#**, **.Net**, **System Design**, **Delivery Processes**
+- 💬 Ask me about **C#**, **.Net**, **System Design**, **Delivery Processes**, **AI-assisted development**
+- 🤖 Building [Claudescope](https://github.com/vladar107/claudescope) — a local viewer & analytics tool for AI coding-agent transcripts
 - 📄 Explore my [CV](./cv.md) on GitHub
 - ✍️ Author of the [Tech Lead Insights](https://t.me/techlead_Insights) Telegram channel
 - 🎓 Mentor on [GetMentor](https://getmentor.dev/mentor/vladislav-ramazaev-3193)
-- ⚡ Fun fact: **ice hockey player, extreme singer, and MTB rider**
+- ⚡ Fun fact: **ice hockey player, extreme singer, MTB rider and WH40k rookie**
 - ☎️ To contact me and know more about my projects follow the [link](https://linktr.ee/vladar107)
 
 Experienced Solutions Architect and Software Development Engineer with over 10 years in backend development and application architecture. Specializes in C#, .Net, Kotlin, and TypeScript, focusing on designing scalable, high-performance systems. Skilled in providing technical governance to drive resilient, optimized solutions that align with business goals. Passionate about turning requirements into eﬃcient, scalable architectures that support long-term growth and innovation.
@@ -18,10 +19,10 @@ Experienced Solutions Architect and Software Development Engineer with over 10 y
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.zohan.tech/api?username=vladar107&hide=contribs&show_icons=true&locale=en&theme=catppuccin_latte">
         <img alt="vladar107-stats" src="https://github-readme-stats.zohan.tech/api?username=vladar107&hide=contribs&show_icons=true&locale=en&theme=catppuccin_latte">
     </picture>
-        <picture>
+    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladar107&theme=merko&layout=compact&langs_count=8">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladar107&theme=catppuccin_latte&layout=compact&langs_count=8">
-        <img alt="vladar107-languages" src="vladar107-languages">
+        <img alt="vladar107-languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladar107&theme=catppuccin_latte&layout=compact&langs_count=8">
     </picture>
 </p>
 
@@ -34,7 +35,7 @@ Experienced Solutions Architect and Software Development Engineer with over 10 y
 </p>
 
 ### Languages:
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=cshrp&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BQyBTaGFycDwvdGl0bGU%2BPHBhdGggZD0iTTEyIDBBMTIgMTIgMCAwMDAgMTJhMTIgMTIgMCAwMDEyIDEyIDEyIDEyIDAgMDAxMi0xMkExMiAxMiAwIDAwMTIgMHpNOS40MjYgNy4xMmE1LjU1IDUuNTUgMCAwMTEuOTg1LjM4djEuMTgxYTQuNSA0LjUgMCAwMC0yLjI1LS41NjYgMy40MzkgMy40MzkgMCAwMC0yLjYyNSAxLjA4NyA0LjA5OSA0LjA5OSAwIDAwLTEuMDEyIDIuOTA2IDMuOSAzLjkgMCAwMC45NDUgMi43NTQgMy4yMTcgMy4yMTcgMCAwMDIuNDgyIDEuMDIzIDQuNjU3IDQuNjU3IDAgMDAyLjQ2NC0uNjM0bC0uMDA0IDEuMDhhNS41NDMgNS41NDMgMCAwMS0yLjYyNS41NTUgNC4yMTEgNC4yMTEgMCAwMS0zLjIyOC0xLjI5NyA0Ljc5MyA0Ljc5MyAwIDAxLTEuMjEyLTMuNDA5IDUuMDIxIDUuMDIxIDAgMDExLjM2NS0zLjY2MyA0LjYzMSA0LjYzMSAwIDAxMy40NzMtMS4zOTIgNS41NSA1LjU1IDAgMDEuMTItLjAwNCA1LjU1IDUuNTUgMCAwMS4xMjIgMHptNS44NjMuMTU1aC44MzZsLS41NTUgMi42NTJoMS42NjFsLjU2Ny0yLjY1MmguODFsLS41NTUgMi42NTIgMS43MzItLjAwNC0uMTUuNjk3SDE3LjkxbC0uNDEyIDEuOThoMS44NTJsLS4xNzYuNjk4aC0xLjgxNmwtLjU4IDIuNjI1aC0uODNsLjU2Ny0yLjYyNWgtMS42NWwtLjU1NSAyLjYyNWgtLjgxbC41NTUtMi42MjVoLTEuNzRsLjEzMS0uNjk4aDEuNzQ4bC40MDEtMS45NzZoLTEuODI2bC4xMzgtLjY5N2gxLjgyNnptLjE0MiAzLjM0NUwxNSAxMi42aDEuNjczbC40MjMtMS45OHoiLz48L3N2Zz4%3D)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -62,6 +63,13 @@ Experienced Solutions Architect and Software Development Engineer with over 10 y
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Teamcity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
+
+### AI:
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logoColor=white)
+![Junie](https://img.shields.io/badge/Junie-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 ### Clouds:
 ![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
