@@ -30,17 +30,20 @@ gantt
     axisFormat  %Y
     todayMarker stroke-width:5px, opacity:0.75
 
+    section BlueDolphin
+    SDE                                 :sd8, after se1, 2026-12
+
     section Toloka AI
-    Solutions Engineer                  :se1, after sd7, 2026-06
+    Solutions Engineer                  :se1, after sd7, 2026-07
 
     section Bitvavo
     SDE                                 :sd7, after tl3, 2025-04
 
     section Tinkoff
-    Solution Architec (T-Seller)          :tl3, after tl2, 2023-05
+    Solution Architec (T-Seller)        :tl3, after tl2, 2023-05
     Application Architec (Origination)  :tl2, after tl1, 2022-05
     Application Architect (Cloud Call Center)    :tl1, after sd6, 2021-11
-    SDE (Cloud Call Center)                      :sd6, after sd5, 2020-02
+    SDE (Cloud Call Center)             :sd6, after sd5, 2020-02
     SDE (Sales)                         :sd5, after sd4, 2019-05
 
     section One Inc.
@@ -48,13 +51,20 @@ gantt
 
     section Rubezh
     SDE (Client-Server DVR)             :sd3, after sd2, 2017-04
-    SDE (Desktop DVR)                :sd2, after sd1, 2016-11
+    SDE (Desktop DVR)                   :sd2, after sd1, 2016-11
 
     section Energoinvest
     SDE                                 :sd1, 2014-07, 2015-11
 ```
 
-### [Toloka AI](https://toloka.ai/) | Solutions Engineer | Amsterdam, Netherlands | 05.2025 - Present
+### [BlueDolphin](https://bluedolphin.io/) | Software Development Engineer | Utrecht, Netherlands | 08.2026 - Present
+A SaaS platform for enterprise architecture and business process design.
+- Made a key configuration operation ~35x faster on large customers, from over an hour to under 2 minutes, by switching to bulk updates and background processing.
+- Introduced AI-assisted development as a company standard: shared agent instructions and a skill catalogue across the company.
+
+<u>_Technologies_</u>: C#, .NET 10, ASP.Net Core, MongoDB, Azure SQL Server, Redis, Azure Service Bus, Docker, k8s, Azure, Azure DevOps, GitHub Actions.
+
+### [Toloka AI](https://toloka.ai/) | Solutions Engineer | Amsterdam, Netherlands | 05.2025 - 07.2026
 A data solutions company that provides high-quality data for training and evaluating AI models through a scalable, human-in-the-loop platform.
 - Collaborated with clients to define data needs, aligning solutions with business objectives
 - Designed and implemented scalable data pipelines to accelerate AI model training and evaluation
