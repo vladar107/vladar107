@@ -31,7 +31,7 @@ gantt
     todayMarker stroke-width:5px, opacity:0.75
 
     section BlueDolphin
-    SDE                                 :sd8, after se1, 2026-12
+    SDE                                 :sd8, 2026-08, 2027-12
 
     section Toloka AI
     Solutions Engineer                  :se1, after sd7, 2026-07
