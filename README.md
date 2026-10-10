@@ -12,17 +12,17 @@
 Experienced Solutions Architect and Software Development Engineer with over 10 years in backend development and application architecture. Specializes in C#, .Net, Kotlin, and TypeScript, focusing on designing scalable, high-performance systems. Skilled in providing technical governance to drive resilient, optimized solutions that align with business goals. Passionate about turning requirements into eﬃcient, scalable architectures that support long-term growth and innovation.
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=vladar107&label=Profile%20views&color=0e75b6&style=flat" alt="vladar107-views" />
+    <img src="https://komarev.com/ghpvc/?username=vladar107&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="vladar107-views" />
     <br/>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zohan.tech/api?username=vladar107&hide=contribs&show_icons=true&locale=en&theme=merko">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.zohan.tech/api?username=vladar107&hide=contribs&show_icons=true&locale=en&theme=catppuccin_latte">
-        <img alt="vladar107-stats" src="https://github-readme-stats.zohan.tech/api?username=vladar107&hide=contribs&show_icons=true&locale=en&theme=catppuccin_latte">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=vladar107&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&locale=en&theme=catppuccin_mocha">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=vladar107&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&locale=en&theme=catppuccin_latte">
+        <img alt="vladar107-stats" src="https://github-stats-extended.vercel.app/api?username=vladar107&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&locale=en&theme=catppuccin_latte">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladar107&theme=merko&layout=compact&langs_count=8">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladar107&theme=catppuccin_latte&layout=compact&langs_count=8">
-        <img alt="vladar107-languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vladar107&theme=catppuccin_latte&layout=compact&langs_count=8">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=vladar107&theme=catppuccin_mocha&layout=compact&langs_count=16">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=vladar107&theme=catppuccin_latte&layout=compact&langs_count=16">
+        <img alt="vladar107-languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vladar107&theme=catppuccin_latte&layout=compact&langs_count=16">
     </picture>
 </p>
 
