@@ -64,6 +64,7 @@ gantt
 A SaaS platform for enterprise architecture and business process design.
 - Introduced AI-assisted development practices across the company by establishing shared agent instructions and a reusable skill catalogue
 - Made a key configuration workflow ~35x faster for large customers, reducing processing time from over an hour to under 2 minutes through bulk updates and background processing
+- Designed and built a Docker Compose–based CLI to run the full application stack locally, including backend, frontend, AI services, and dependencies, enabling independent development and debugging across a 30-person R&D team without modifying shared remote environments.
 
 <u>_Technologies_</u>: C#, .NET 10, ASP.Net Core, MongoDB, Azure SQL Server, Redis, Azure Service Bus, Docker, k8s, Azure, Azure DevOps, GitHub Actions, Claude Code.
 
