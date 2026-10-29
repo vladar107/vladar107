@@ -2,7 +2,7 @@
 ## Software & Solutions Engineer/Architect from the Netherlands
 
 - 💬 Ask me about **C#**, **.Net**, **System Design**, **Delivery Processes**, **AI-assisted development**
-- 🤖 Building [Claudescope](https://github.com/vladar107/claudescope) — a local viewer & analytics tool for AI coding-agent transcripts
+- 🤖 Building [Claudescope](https://github.com/vladar107/claudescope) — a local viewer & analytics tool for AI coding-agent transcripts (Also in [Raycast](https://www.raycast.com/vladar107/claudescope))
 - 📄 Explore my [CV](./cv.md) on GitHub
 - ✍️ Author of the [Tech Lead Insights](https://t.me/techlead_Insights) Telegram channel
 - 🎓 Mentor on [GetMentor](https://getmentor.dev/mentor/vladislav-ramazaev-3193)
